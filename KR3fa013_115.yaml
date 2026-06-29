@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/115
+seq: 115
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:86b4d45bc8acc92712b9674d1b0beba06303fc94f621a1dd6c042896a8a25851

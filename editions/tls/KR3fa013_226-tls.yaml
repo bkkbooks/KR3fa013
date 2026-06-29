@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/226
+seq: 226
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 北方斗宿六星其狀似北斗魁上建星三相對天弁建上三三九斗下圓安十四星雖然名鱉貫索形天雞建背雙黑星天籥柄前八黃精狗國四方雞下生天淵十星鱉東邊更有兩狗斗魁前農家丈人斗下眠天淵十黃狗色玄
+  hash: sha256:3f4b0513409b5f0e3d97701737c746bf6ca861f165fa92624ef599d4698fb399
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:310879747bdbd3d0eba692fb109f5dff9dd448928c30c8736f41560d36763dca

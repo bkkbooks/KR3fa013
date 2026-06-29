@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/466
+seq: 466
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西方參宿總有七星觜相侵兩肩雙足三爲心伐有三星足裹深玉井四星右足陰屏星兩扇井南襟軍井四星屏上吟左足下四天廁臨廁下一物天屎沉
+  hash: sha256:240567a04285189780462f79e2f6796dd51e010d2ba90bd908bfa0c421b56bf9
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:d85699b54c3d97309465ecfe1e65a417fa9d4651b9ed85aafe027c143fb9b6ce

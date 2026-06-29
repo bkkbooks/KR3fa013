@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/354
+seq: 354
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西方奎宿腰細頭尖似破鞋一十六星繞鞋生外屏七烏奎下橫屏下七星天溷明司空左畔土之精奎上一宿軍南門河中六箇閣道形附路一宿道旁明五箇吐花王良星良星近上一策明
+  hash: sha256:71b62a620b3f2a8a6c9a98e1d0d5306063c4b9a4fe8577db5ba91cd97a2de081
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:bacfecb51f5bbe9f8b1bd92ecaa4747fcd9dfa4c538c69d6d360d29356e65110

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/649
+seq: 649
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亢宿亢星兩兩形若弯弯弓明四海以岡王臣忠而无疾移徒則病症傷人不見則昇沸澇旱交角赤而兵散失色王者流亡太白守之兵起日月食以兇顧拼威七黑金守之夷狄侵境攝提三客入之人主災殃考囚察情於顧頓狄兵边紀孛客出於陽門氐宿氐形着口四冊方明大而君正臣忠耽動而將臣內乱日月食主內殘差木立妃大臣簪上金臨拜將水合官憂月暈則主不安彗孛則暴兵起降耳露則占天乳胡兵顧佼梗河喪亡則招提而变色臣失位帝度不明亢池車騎非常而必主災殃騎官陳車持捋失時而起禍房宿
+  hash: sha256:e613a2d823b623e155bb45eda503bc7c40ce742f2289b7abd9d45a21594cc7c6
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:7b5c4a6e3691cfeb0070fa52afb3a1237ec8ebcdab4c296e61fa5297ff8c79b6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/318
+seq: 318
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 北方室宿兩星上有離宮出繞室三雙有六星下頭六箇雷電形壘壁陣次十二星十二兩頭大似井陣下分佈羽林軍四十五卒三爲群軍西四星多難論子細歷歷看區分三粒黃金名鐵鉞一顆真珠北落門門東八魁九箇子門西一宿天網是電旁兩黑圖公吏騰蛇室上二十二
+  hash: sha256:5311d21e21506fb66207790f99dbe7eee2ad49c28bd9d681f33d726ae6b4959b
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:98fe58d5d4855e6a84738cd83ecc2c979df0d21afd043724fa5390871eab08db

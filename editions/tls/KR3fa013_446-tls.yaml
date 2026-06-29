@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/446
+seq: 446
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西方觜宿三星相近作參蕊觜上座旗直指天尊卑之位九相連司恠曲立座旗邊四鵶大近井鉞前
+  hash: sha256:8253032a2c3ec9b5915644eb60bc4f5dfc07bf4c3cd3733e7db13fa88de16d1e
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:7a50117ceeda64e1e4d9b1afbf65f692c713908fb54e4cd3ffec6b93f394e08a

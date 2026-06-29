@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/65
+seq: 65
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天市垣下元一宮名天市兩扇垣牆二十二當門六箇黑市樓門左兩星是車肆兩箇宗正四宗人宗星一雙亦依次帛度兩星屠肆前候星還在帝坐邊帝座一星常光明四箇微茫宦者星以次兩星名列肆斗斛帝前依其次斗是五星斛是四垣北九箇貫索星索口橫者七公成天紀卻似七公形數著分明多兩星紀北三星名女狀此坐還依織女旁三元之象無相侵二十八宿隨其陰水火木土并與金
+  hash: sha256:3f6438de1f9724a1865c89655fd3d3d4dbbadbf054f185e52f059d0a6181fc9d
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:a0425f655d38e53b6970137de0d397c83d16c33851441d2b7cb1c5fdada7f749

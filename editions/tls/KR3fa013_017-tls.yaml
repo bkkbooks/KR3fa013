@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勾陳六星六甲前天皇獨在勾陳裹五帝內產後門是華蓋并杠十六星杠作柄象華蓋形蓋上連連九箇星名曰傳舍如連丁垣外左右谷六珠右是內階左天廚階前八星名八穀廚下五箇天棓宿天床六星左樞在內廚兩星右樞對文昌斗上半月形稀踈分明六箇星文昌之下曰三師太尊只想三公明天牢六星太尊邊太陽之守四勢前一箇宰相太陽側更有三公向西偏即是玄戈一星圓天理四星斗裹暗輔星近着問陽淡
+  hash: sha256:5be777483159d76a52f073d77fb339bfbeb694f4742d7def2421a94cee46347d
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:1e880ba633dff98628dd934742e12cd992c6f42d0bea979703d3c2b2b8bcefeb

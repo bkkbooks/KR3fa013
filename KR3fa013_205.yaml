@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/205
+seq: 205
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東方箕宿四星形狀似簸箕箕下三星名木杵箕前一黑是糠皮
+  hash: sha256:42bcc175f6d3c71283f7208f07aa31cf2126580ae7e54fda9663e5ecd596c6af
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:412b727980b1263eaad0778319c4f844aeb3679a4b70cb1151ef2e3625447e0c

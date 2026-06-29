@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/520
+seq: 520
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南方柳宿八星曲頭垂似柳近上三星號爲酒享宴大酺五星守
+  hash: sha256:b6de976f7db18a6e07135b7ccc99b0f4377c6551d77ebf37596972c6bb22ef11
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:9654b5e9d8785202166dc4e1e7f4835f9b668f7672be804838a9c34210290b8e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/539
+seq: 539
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南方星宿七星如鉤柳下生星上十七軒轅形軒轅東頭四內平平下三箇名天相相下稷星橫五靈
+  hash: sha256:0dac32e2c054cc9f294eaf6ac2158faf223c683657d8ca3a68b74aacb8991dc0
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:168eae7755db2ceb95947e2ce2255168790aba97519dc3c2231e1c16d0f6a07b

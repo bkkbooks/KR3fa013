@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/244
+seq: 244
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 北方牛宿六星近在河岸頭頭上雖然有兩角腹下從來缺一腳牛下九黑是天田田下三三九坎連牛上直建三河鼓鼓上三星號織女左旗右旗谷九星河鼓西畔右邊明更有四黃名天桴河鼓之下如連珠羅堰三烏牛東居漸臺四星如口形輦道東足連五丁輦道漸台在何許欲得見時近織女
+  hash: sha256:2a9b3e9be245685cc194a9bbdabef8f1a1df99fbb2c663265f41da32a47e844b
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:b9bf1552de1f34cacc60f8cac3fc043fbd7e2bcaa33b56fc9932b59f406e07dc

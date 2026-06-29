@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/665
+seq: 665
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 娄禽三宿直法之臣動搖則聚眾於野金火則宮內召冬日月食而宮乱四星犯而城危水星守而大水同暈臨而兩退仁智向左吏而察禮義向右吏而推歳豊登是天倉明正年栗盈滿得天庚而有輝將軍土中為主占是搖則出其城不俱則凶兵大起胃宿胃星三点周昴之形明則四時和美倉賓實而充盈上頭下失緣不明而生灾殄人流谷貴則細小而無昏五星日月孛曜加臨而憂甚稟星主谷黎稷熱而以光明金火犯囚而災損黃則谷登眾星生於天陵死喪非數天舡回是若明盛而最吉彗客並動若時而必主兵荒死人入沙是積尸而明朗洪波如海乃積水而光榮
+  hash: sha256:c563e23da12cdc7ce9b6c1de630e4c5e1b54de2bab325e68a3251b17669429c1
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:a1b091757ac6fea97daeeba62b66e5ea7f44cf74cc7f585d297ad2efe0abff74

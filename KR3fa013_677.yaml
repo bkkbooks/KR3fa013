@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/677
+seq: 677
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西叛而兵交軫宿軫分四守號四將軍五星㽖而失位於民葉大明光則主度於人農
+  hash: sha256:ab6da22f9acd52d3c30f280ea065e65944d533dba76ea86dd5d419672d9d7dd4
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:04e4aaa122bf1c9005197081ec538b8696d7ff2f29dbc6bedd1b75e1dfdc1fc3

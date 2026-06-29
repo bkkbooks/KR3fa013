@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/128
+seq: 128
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東方氐宿四星似斗側量米天乳底上黑一星世人不識稱無名一箇招搖梗河上梗河橫列三星狀帝席三黑河之西亢池六星近攝提氐下眾星騎官出騎官之眾二十七三三相連十欠一陣車氐下騎官次騎官下三車騎位天輻兩星在陣旁將軍陣裹鎮威霜
+  hash: sha256:b5d927dd06549becac05212d5ff0ff9e84597abff62f4b41804cd89f8ad7e446
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:61d929ab5e53ebca785a4423e3c8b523ad2edc983a603f82871b79a29d6a9026

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/147
+seq: 147
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東方房宿四星直下主明堂鍵閉一黃斜向上鉤鈴兩箇近其旁罰有三星直鍵上兩咸夾罰似房狀房西一星號為日從官兩星日下出
+  hash: sha256:ce03c5181e01f997b2bd211c8a29587407caebbdd30a9b70f89efed5367d5fb1
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:5155c4d0ac9496c1793fab97e857366326a84a286a168a9d5c067005b1db55cb

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/263
+seq: 263
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 北方女宿四星如箕主嫁娶十二諸國在下陳先從越國向東論東西兩周次二秦雍州南下雙雁門代國向西一晉伸韓魏谷一晉北輪楚之一國魏西屯楚城南畔獨燕軍燕西一郡是齊臨齊北兩邑平原君欲知鄭在越下存十六黃星細區分五箇離珠女上生敗瓜珠上誇瓜生兩箇谷五誇瓜明天津九箇彈弓形兩星入牛河中橫四箇奚仲天津上七箇仲側扶筐星
+  hash: sha256:c8d5186ddbd217d48ab8e252730a2be6471a3ff68256b34c7eaef579975f3867
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:fe79e2a41bdd24818e06289c80ad4ec08c996039215ea991c31ea0c519df6806

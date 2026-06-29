@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/67
+seq: 67
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以此別有五行吟宋對韓連南對楚
+  hash: sha256:c2268a5a8c53eda11af5673c4985e3310f1073454d685695b7083651c1a80cdb
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:827b4fbac0ea334f75f329f7ecbdf13c33ff48a8eda1a706e5f57d2fe8bf2ec7

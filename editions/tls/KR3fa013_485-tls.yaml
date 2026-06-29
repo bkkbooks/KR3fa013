@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/485
+seq: 485
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南方井宿八星橫列河中靜一星名鉞井邊安兩河谷三南北正天鐏三星井上頭鐏上橫列五諸侯侯上北河西積水欲覓積薪東畔是鉞下四星名水府水位東邊四星序四瀆橫列南河裹南河下頭是軍市軍市團圓十三星中有一箇野雞精孫子丈人市下列谷立兩星從東説闕邱兩星南河東丘下一狼光蓬茸左畔九箇弯弧弓一矢擬射頑狼星有箇老人南極中春秋出入壽爲窮
+  hash: sha256:6ff78f6421db0953f5f84aa73e6508becde7e1ab803b8c358c181d8ecff6b799
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:f9526aa162a10546f30976f64ab18f112663e002266b56f4b2d7978bf0f1a0b3

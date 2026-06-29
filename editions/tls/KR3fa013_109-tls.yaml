@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/109
+seq: 109
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東方亢宿四星恰似弯弓狀大角一星直上明折威七子亢下橫大角左右攝提星三三相似如鼎形折威下左頓頑星兩箇斜安黃色精頑下二星號陽門色若頓頑直下存
+  hash: sha256:3ab1811082b0e66595abe2ae98820d00c6a16e1161192a2cfe32105e09de8eed
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:c078b21f874d8720d0f43363a2e9f24b0154a34e47dedeb082dd4268e383edc6

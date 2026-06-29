@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/34
+seq: 34
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太微垣上元天庭太微宮昭昭列象在蒼穹端門只是門之中左右執法門西東門首皂衣一謁者以次即是烏三公三黑九卿公皆旁五黑諸侯卿後行四箇門西主軒屏五帝內座於中正幸臣太子並從宮烏列帝后從東定郎將虎賁居左右常陳郎位居其後常陳七星不相誤郎位陳東一十五兩面宮垣十星布左右執法是其數宮外明堂布政宮三箇靈台候雲雨少微四星西南隅長垣雙雙微西居
+  hash: sha256:fe8443cf913214a76d282215000a9c79317425de0b31f2c4add44f7f15e15607
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:235380d75123a0fa661ece3add46385095bff7d8ec410e2734f23d5d21d36702

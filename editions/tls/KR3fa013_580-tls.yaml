@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/580
+seq: 580
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南方翼宿二十二星太難識上五下五橫着行中心六箇恰似張更有六星在何處三三相連張畔附必若不能分處所更請向前看野取五箇黑星翼下頭欲知名字是東甌
+  hash: sha256:83bb51e285b0e2fe9f2260a1659d3b291dcd9fc9fbb1ced01c0180513e872d86
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:3ce308ad671272f97765c83fe10333a4710eb90fb51f2e5aadbe1eb7e0ff8734

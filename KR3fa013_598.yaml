@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/598
+seq: 598
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南方軫宿四星似張翼相近中央一箇長沙子左轄右轄附兩星軍門兩黃近翼是門下四箇土司空門東七烏青丘子青丘之下名器府器府之星三十二已上便是太微宮黃道向上看取是
+  hash: sha256:dc0a9e440cb5fdab5e257bfcbefda4a01a06eab6109d96fd455058ceff2b96e0
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:e864f0f722fdb4b54c962858c4a21d95bade624f50c9d94625b4ef56c80699b1

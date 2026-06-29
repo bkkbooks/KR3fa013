@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/663
+seq: 663
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 壁宿壁宿雙連能主朝綱光明則退於君子失色則退於武臣日月食黃臣當損五星犯病亂當至動以土工大發移為賊起蕭墻占霹靂而艾祥可究候雲雨水旱可明鐵鎖五點占牛馬之存亡人廊十星候道斷而成敗奎宿奎星十六明常安康動客星而禍金火守而水殃年凶歲惡則七曜而如臨帝泆王澄乃角光而有現土功大作緣司空而大明色黃民亂無安是天外屏移動晦輦道不通則關道附路不俱軍行兵亂則南星以猩沉王官動搖車騎澀野移徒金火犯之憂客星入而橋斷婁宿
+  hash: sha256:b252d15c8510011c512cd781b15773d2cba8a31e4652f8b80bf203a1a24cfe44
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:d3712adaa809c0857d5bcf3ce0cc6540827380578d29ed50969ed66bb658eb42

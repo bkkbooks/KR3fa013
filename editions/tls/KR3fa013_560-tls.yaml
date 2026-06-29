@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/560
+seq: 560
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南方張宿六星似軫在星旁張下只是有天廟十四之星冊四方長垣少微雖向上星數倚在太微旁太尊一星直上黃
+  hash: sha256:0997ffc64f8b06a2c165452b2e2e388dec4f435ad994b981bc1199d47a5acb96
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:2463f0f664f239e0afaed51d7af023965c9fb963c3c445ebcef2aba13832c8ca

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/500
+seq: 500
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南方鬼宿四星冊方似水櫃中央白者積尸氣鬼上四星是雚位天狗七星鬼下是外廚六間柳星次天社六個弧東倚社東一星名天紀
+  hash: sha256:fd50e2161e297f9132ae80f26f38ef8ac72bc9df2da3aea2154c71ca08102e12
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:c834535b27193e43493c57a0e7ec0620f0f52d685a7529ac719d9213e6e83126

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/166
+seq: 166
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東方心宿三星中央色最深下頭積卒共十二三三相聚心下是
+  hash: sha256:56b6ffffa0b112da2f111ac26a7b603051307d3f82d0cc1a9a267cbe22a1c242
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:d2d0500c6f26b064ed81f261db743173e1c1086954b2aaa5d6c94c7642e8e1fe

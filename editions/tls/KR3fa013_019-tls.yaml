@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 北斗之星七宿明第一主帝名樞精第二第三璇璣星第四名權第五衡開陽搖光六七名搖光左三天槍紅
+  hash: sha256:f4103f1d357579eff6a43299e11c5ff21f25f9097657634b9f4fa8ec90840809
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:d121b2e2923a75728e1f658c1f65379e6d1844f83e9675f80510342c6dca57ec

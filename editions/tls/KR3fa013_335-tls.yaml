@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa013/tls/v1/juan/335
+seq: 335
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 北方璧宿兩星下頭是霹靂霹靂五星橫着行雲雨次之曰四方璧上天廄十圓黃鐵鑽五星羽林旁土公雨黑璧下臧
+  hash: sha256:5a54292310aadc1ce4f70df69e3bbdc931f01fe57e42a4c9a184d8c463c56046
+metadata:
+  title: 三垣七政二十八宿周天精鑒
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa013.xml
+hash: sha256:232079b1fb235b097def0e80a43959bbfdeb476c81faf57adb3dd4e15815c9a2
