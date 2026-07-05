@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 北方危宿三星不直舊先知危上五黑號人星人畔三四杵臼形人上七烏號車府府上天鉤九黃晶鉤下烏鴉字造父危下四星號墳墓墓下四星斜虛梁十箇天錢梁下黃墓旁兩星能蓋屋身著黑衣危下宿
-  hash: sha256:cb0f8a8872a140cb853e3b70269633ca96c2f8de52ea280fe786c8cb2e990db5
+  text: 北方危宿三星不直舊先知危上五黑號人星人畔三四杵臼形人上七烏號車府府上天鉤九黃晶鉤下烏鵶字造父危下四星號墳墓墓下四星斜虛梁十箇天錢梁下黃墓旁兩星能蓋屋身着黑衣危下宿
+  hash: sha256:734c44ec5d3ec689db5f282bed33ee5db74f6eaeb4a39eb1cb3be33ac4e9fa9f
 metadata:
   title: 三垣七政二十八宿周天精鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa013.xml
-hash: sha256:76dd2fe6372eb12e726381bc7c0acb40be7cc9417b122e52b49f94867be119fa
+hash: sha256:02ea1281505b1aa466b0c9d494c5c18f0fc3152f7b6c4df36e98118bec364da4

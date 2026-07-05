@@ -7,19 +7,12 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_14_dup43, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 2, content: '', id: KR3fa013_tls_001-p49.s15}
   - {type: line-break, offset: 2, content: '', id: KX_15_dup46, _xml_error: duplicate-id, _xml_original_id: KX_15}
-  - {type: substitution, offset: 5, original: 点, replacement: 點, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0704}}
-  - {type: substitution, offset: 13, original: 庙, replacement: 廟, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0579}}
   - {type: 'tls:seg', offset: 26, content: '', id: KR3fa013_tls_001-p49.s16}
   - {type: line-break, offset: 26, content: '', id: KX_16_dup46, _xml_error: duplicate-id, _xml_original_id: KX_16}
-  - {type: substitution, offset: 29, original: 离, replacement: 離, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0983}}
-  - {type: substitution, offset: 40, original: 祸, replacement: 禍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1159}}
-  - {type: substitution, offset: 41, original: 乱, replacement: 亂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0349}}
   - {type: 'tls:seg', offset: 50, content: '', id: KR3fa013_tls_001-p49.s17}
   - {type: line-break, offset: 50, content: '', id: KX_17_dup42, _xml_error: duplicate-id, _xml_original_id: KX_17}
-  - {type: substitution, offset: 55, original: 礼, replacement: 禮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0121}}
   - {type: 'tls:seg', offset: 74, content: '', id: KR3fa013_tls_001-p49.s18}
   - {type: line-break, offset: 74, content: '', id: KX_18_dup37, _xml_error: duplicate-id, _xml_original_id: KX_18}
-  - {type: substitution, offset: 81, original: 庙, replacement: 廟, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0579}}
   - {type: 'tls:seg', offset: 98, content: '', id: KR3fa013_tls_001-p49.s19}
   - {type: line-break, offset: 98, content: '', id: KX_19_dup31, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg', offset: 122, content: '', id: KR3fa013_tls_001-p49.s20}
@@ -30,11 +23,9 @@ markers:
   - {type: line-break, offset: 133, content: '', id: KX_22_dup22, _xml_error: duplicate-id, _xml_original_id: KX_22}
   - {type: 'tls:seg', offset: 157, content: '', id: KR3fa013_tls_001-p49.s23}
   - {type: line-break, offset: 157, content: '', id: KX_23_dup19, _xml_error: duplicate-id, _xml_original_id: KX_23}
-  - {type: substitution, offset: 167, original: 离, replacement: 離, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0983}}
   - {type: 'tls:seg', offset: 181, content: '', id: KR3fa013_tls_001-p49.s24}
   - {type: line-break, offset: 181, content: '', id: KX_24_dup19, _xml_error: duplicate-id, _xml_original_id: KX_24}
   - {type: 'tls:seg', offset: 205, content: '', id: KR3fa013_tls_001-p49.s25}
   - {type: line-break, offset: 205, content: '', id: KX_25_dup19, _xml_error: duplicate-id, _xml_original_id: KX_25}
-  - {type: substitution, offset: 208, original: 点, replacement: 點, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0704}}
   back: []
-hash: sha256:0d848c76fcbec5a07342a809a55c9277c185719bbdec5122a49ea1f397056c6f
+hash: sha256:269294df1505f69bca586d541e80b76bc86ecca1517902065e4fa6d51a266ef7

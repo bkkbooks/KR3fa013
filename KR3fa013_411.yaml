@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 西方昴宿七星一聚實不少阿西月東谷一星阿下五黃天陰名陰下六烏芻稿名營南十六天苑形河中六星名捲舌舌中黑點天讒星礪石舌旁斜四丁
-  hash: sha256:61a412f2c9084b51f5a695f68d65eacf80a1a216de7c14667c67b91f93f448ab
+  text: 西方昴宿七星一聚實不少阿西月東谷一星阿下五黃天陰名陰下六烏芻稾名營南十六天苑形河中六星名捲舌舌中黑點天讒星礪石舌旁斜四丁
+  hash: sha256:534cefbd4a2cdee4a8f05b8e274264b5038afc6db23ac1e61ca54664df1a0c04
 metadata:
   title: 三垣七政二十八宿周天精鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa013.xml
-hash: sha256:4348c21bc3324660e3f019e9801fa76356c06739f0ae60d6fed223ea1f42c040
+hash: sha256:a138bda93b5358249f38178d1ea3195790b600f3cef208fcf3c6707e2ccd5187

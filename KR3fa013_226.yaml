@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 北方斗宿六星其狀似北斗魁上建星三相對天辨建上三三九斗下圓安十四星雖然名鱉貫索形天雞建背雙黑星天籥柄前八黃精狗國四方雞下生天淵十星鱉東邊更有兩狗斗魁前農家丈人斗下眠天淵十黃狗色玄
-  hash: sha256:20b6554e5de394e12a2d0d9fa68633640209dae6de343e6ba7b320fbace6ab1f
+  text: 北方斗宿六星其狀似北斗魁上建星三相對天弁建上三三九斗下圓安十四星雖然名鱉貫索形天雞建背雙黑星天籥柄前八黃精狗國四方雞下生天淵十星鱉東邊更有兩狗斗魁前農家丈人斗下眠天淵十黃狗色玄
+  hash: sha256:3f4b0513409b5f0e3d97701737c746bf6ca861f165fa92624ef599d4698fb399
 metadata:
   title: 三垣七政二十八宿周天精鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa013.xml
-hash: sha256:3d5a0e2e5ed4a1f1c5eef81b9a265fb037c599793eb7ec292c3f201ba95290ad
+hash: sha256:310879747bdbd3d0eba692fb109f5dff9dd448928c30c8736f41560d36763dca
