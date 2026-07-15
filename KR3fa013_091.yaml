@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 東方角宿兩星南北正直着中有平道上天田總是黑星兩相連別有一烏名進賢平道右畔獨淵然最上三星周鼎形角下天門左平星雙雙橫於庫樓上庫樓十星屈曲明樓中五柱十五星三三相似如鼎形其中四星別名衡南門樓外兩星橫
-  hash: sha256:ed9f2bd65a7fe7da298f184fbc2f8f05baa53c67c8daaf1978c6b7185a214cff
+  text: 東方角宿兩星南北正直著中有平道上天田總是黑星兩相連別有一烏名進賢平道右畔獨淵然最上三星周鼎形角下天門左平星雙雙橫於庫樓上庫樓十星屈曲明樓中五柱十五星三三相似如鼎形其中四星別名衡南門樓外兩星橫
+  hash: sha256:bde8d8cb013af1eaaf3777496f6c1018c6018e47f93eac70c7af86affafef286
 metadata:
   title: 三垣七政二十八宿周天精鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa013.xml
-hash: sha256:23912890fc31216033e94005a4b3f651164feab64719c6339753fde608543935
+hash: sha256:2c46b8b6335906d13e1a05d0dbf73b7a2c590dc832ee3e84e8516b7caf19a4b0

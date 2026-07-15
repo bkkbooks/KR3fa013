@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 東方亢宿四星恰似弯弓狀大角一星直上明折威七子亢下橫大角左右攝提星三三相似如鼎形折威下左頓頑星兩箇斜安黃色精頑下二星號陽門色若頓頑直下存
-  hash: sha256:3ab1811082b0e66595abe2ae98820d00c6a16e1161192a2cfe32105e09de8eed
+  text: 東方亢宿四星恰似彎弓狀大角一星直上明折威七子亢下橫大角左右攝提星三三相似如鼎形折威下左頓頑星兩箇斜安黃色精頑下二星號陽門色若頓頑直下存
+  hash: sha256:fcbc69d84e770b9310ce345949e314273dd3954f728068c3a54bd1f72d350790
 metadata:
   title: 三垣七政二十八宿周天精鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa013.xml
-hash: sha256:c078b21f874d8720d0f43363a2e9f24b0154a34e47dedeb082dd4268e383edc6
+hash: sha256:6bb05a1cd7e2e16be22259b43be0b3194f27df69a3de0104f0e5a59e6eef898c

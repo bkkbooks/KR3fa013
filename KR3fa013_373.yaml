@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 西方娄宿三星不勺近一頭左更右更烏夾婁天倉六箇婁下頭天庾三星倉東腳天上十一將軍侯
-  hash: sha256:73cf9ddff49816c237ccb54e96d9055e52e42df6c88013e9054afebf215b1cd2
+  text: 西方婁宿三星不勺近一頭左更右更烏夾婁天倉六箇婁下頭天庾三星倉東腳天上十一將軍侯
+  hash: sha256:9ba55042327403e4faa1cdc01166aa7911ca58759993506ddd38c9ac6444bdfc
 metadata:
   title: 三垣七政二十八宿周天精鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa013.xml
-hash: sha256:f1cd4c4de443a836cdd7e571c6e0371418e5c38fd4e03bffba4a4ba61fc1e754
+hash: sha256:01214d0b806d0586056580fe7056ddf6b883cfb96da7ba6546894c159982a307

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 西方參宿總有七星觜相侵兩肩雙足三爲心伐有三星足裹深玉井四星右足陰屏星兩扇井南襟軍井四星屏上吟左足下四天廁臨廁下一物天屎沉
-  hash: sha256:240567a04285189780462f79e2f6796dd51e010d2ba90bd908bfa0c421b56bf9
+  text: 西方參宿總有七星觜相侵兩肩雙足三為心伐有三星足裹深玉井四星右足陰屏星兩扇井南襟軍井四星屏上吟左足下四天廁臨廁下一物天屎沉
+  hash: sha256:b4f67d9c35fce517de3f013759f95256a73850402bc70ab93b3c22b6999cf217
 metadata:
   title: 三垣七政二十八宿周天精鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa013.xml
-hash: sha256:d85699b54c3d97309465ecfe1e65a417fa9d4651b9ed85aafe027c143fb9b6ce
+hash: sha256:e2672387bec1d0ed881583086f02fcd683d0a43a695650a52fae2775eedc5f11

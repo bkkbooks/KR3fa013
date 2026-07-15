@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 西方觜宿三星相近作參蕊觜上座旗直指天尊卑之位九相連司恠曲立座旗邊四鵶大近井鉞前
-  hash: sha256:8253032a2c3ec9b5915644eb60bc4f5dfc07bf4c3cd3733e7db13fa88de16d1e
+  text: 西方觜宿三星相近作參蕊觜上座旗直指天尊卑之位九相連司怪曲立座旗邊四鴉大近井鉞前
+  hash: sha256:40476fe40533b7fde747da683104ba2d0387cb9f860169d15a7069bec0ae44d0
 metadata:
   title: 三垣七政二十八宿周天精鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa013.xml
-hash: sha256:7a50117ceeda64e1e4d9b1afbf65f692c713908fb54e4cd3ffec6b93f394e08a
+hash: sha256:9bc215bff1650eee0c0036f95e252115e37dbac600d78077d309b5afd3a7c4f4

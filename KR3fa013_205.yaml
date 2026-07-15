@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 東方箕宿四星形狀似簸箕箕下三星名木杵箕前一黑是糠皮
-  hash: sha256:42bcc175f6d3c71283f7208f07aa31cf2126580ae7e54fda9663e5ecd596c6af
+  text: 東方箕宿四星形狀似簸箕箕下三星名木杵箕前一黑是粳皮
+  hash: sha256:92cca5aef9b9f2064b9fd259ff557ef3ad7f3e09bcbb127b75267e107d4a962b
 metadata:
   title: 三垣七政二十八宿周天精鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa013.xml
-hash: sha256:412b727980b1263eaad0778319c4f844aeb3679a4b70cb1151ef2e3625447e0c
+hash: sha256:83599ce7f1167e368889a41d20013e0fcb0ea20b14f1c95b3437ec4c4c5a78ab

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 西方胃宿三星鼎足河之次天廩胃下斜四星天囷十三如一形河中八星名大陵陵北九箇天舡名陵中積尸一箇星積水船中一黑精
-  hash: sha256:5deb9c79b90db421b4d494d17e5fbc55142d6ecacab5f9294d68280ac6db4f2e
+  text: 西方胃宿三星鼎足河之次天廩胃下斜四星天囷十三如一形河中八星名大陵陵北九箇天船名陵中積尸一箇星積水船中一黑精
+  hash: sha256:52a3ba45a3149c9e68472b781caa048a55d57afc20128326561c916dd86074ac
 metadata:
   title: 三垣七政二十八宿周天精鑒
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa013.xml
-hash: sha256:236de9baab569afa4320b57b745fd829e106050e2cc81fad59cea5e2b73bb756
+hash: sha256:935f9f00baaa1d70a264de6c2e5675d4de8268c68d660da581ab212b3dc80bc8
